@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Polish.h"
 
-int Main()
+int main()
 {
 	char* s;
 	s = "5^3";
